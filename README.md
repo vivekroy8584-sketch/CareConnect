@@ -66,11 +66,11 @@ http://localhost:3000
 
 ### Home Dashboard
 
-<img src="screenshots/home.png" width="800">
+<img src="screenshots/dashboard.png" width="800">
 
 ### Doctor Search
 
-<img src="screenshots/doctors.png" width="800">
+<img src="screenshots/doctor.png" width="800">
 
 ---
 
